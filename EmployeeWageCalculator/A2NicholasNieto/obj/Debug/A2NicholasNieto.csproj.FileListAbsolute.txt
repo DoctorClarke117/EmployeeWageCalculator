@@ -1,0 +1,9 @@
+C:\Users\nicho\source\repos\A2NicholasNieto\A2NicholasNieto\bin\Debug\A2NicholasNieto.exe.config
+C:\Users\nicho\source\repos\A2NicholasNieto\A2NicholasNieto\bin\Debug\A2NicholasNieto.exe
+C:\Users\nicho\source\repos\A2NicholasNieto\A2NicholasNieto\bin\Debug\A2NicholasNieto.pdb
+C:\Users\nicho\source\repos\A2NicholasNieto\A2NicholasNieto\obj\Debug\A2NicholasNieto.csprojAssemblyReference.cache
+C:\Users\nicho\source\repos\A2NicholasNieto\A2NicholasNieto\obj\Debug\A2NicholasNieto.Form1.resources
+C:\Users\nicho\source\repos\A2NicholasNieto\A2NicholasNieto\obj\Debug\A2NicholasNieto.Properties.Resources.resources
+C:\Users\nicho\source\repos\A2NicholasNieto\A2NicholasNieto\obj\Debug\A2NicholasNieto.csproj.GenerateResource.cache
+C:\Users\nicho\source\repos\A2NicholasNieto\A2NicholasNieto\obj\Debug\A2NicholasNieto.exe
+C:\Users\nicho\source\repos\A2NicholasNieto\A2NicholasNieto\obj\Debug\A2NicholasNieto.pdb
